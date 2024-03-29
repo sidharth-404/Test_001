@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 Hi guys..
+=======
+Aksharadfghj
+
+//changes made by Lakshmi.git
+Akshara nmdhhhgh
+
+// Once upon a time there lived someone
+// changes by ajanya.
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> c951609b2a7f221e79bdab88b2a578053193f302
